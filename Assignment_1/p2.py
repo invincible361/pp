@@ -1,0 +1,5 @@
+print("hello \n kindly fill thefollowing detail \n")
+name=input("Enter your name : ")
+age=int(input("enter your age : "))
+city=input("enter your city name : ")
+print(f"Hello Mr./Mrs. {name} \n you are {age} years old \n you are from {city} \n Thank you ")
